@@ -5,7 +5,7 @@
 
 ## Description
 
-A search engine highlighting Women, Veteran and Minority-Owned businesses
+Wo-Ve-Mi is a search engine highlighting Women, Veteran and Minority-Owned businesses.
 
 ## Table of Contents:
 * [installation](#installation)
@@ -16,11 +16,11 @@ A search engine highlighting Women, Veteran and Minority-Owned businesses
 
 ## Installation 
 
-N/A
+This project runs in the browser and is a mobile-first design. 
 
 ## Usage 
 
- 
+ The goal of this project is to provide a way for people to earch for Women, Veteran and Minority-Owned businesses in order to foster job createion, celebrate culture and honor our veterans. Wo-Ve-Mi shines through its focus on community impact, ease of use and speed. 
 
 ## Screenshot
 ![Screenshot of Application](./Assets/images/screenshot.png)
